@@ -1,5 +1,7 @@
 <RCC>
-  <qresource prefix="resources">
+  <qresource prefix="new">
     <file>index2_updated.png</file>
+    <file>course_cover.jpg</file>
+    <file>344142-PAM4RR-780.jpg</file>
   </qresource>
 </RCC>

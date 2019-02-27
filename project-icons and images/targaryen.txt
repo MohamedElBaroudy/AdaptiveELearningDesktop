@@ -1,5 +1,6 @@
 <RCC>
 	<qresource>
 		<file>index2</file>
+		<file>344142-PAM4RR-780</file>
 	</qresource>
 </RCC>
